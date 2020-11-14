@@ -13,7 +13,7 @@ import java.util.Scanner;
  * NAMA      : Andreas Suryadi
  * KELAS     : IF-10K
  * NIM       : 10119918
- * Deskripsi Program : Program ini bertujuan untu penghitungan data gaji 
+ * Deskripsi Program : Program ini bertujuan untuk penghitungan data gaji 
  * karyawan
  * 
  */
